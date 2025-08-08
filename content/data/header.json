@@ -52,7 +52,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Google",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
