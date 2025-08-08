@@ -8,7 +8,7 @@ topSections:
       text: Welcome To Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: You May Find EnclaveOS Recents Or Archived Posts Here
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
