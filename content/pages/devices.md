@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Devices
 sections: []
 slug: devices
 isDraft: false
