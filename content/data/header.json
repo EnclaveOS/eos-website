@@ -33,7 +33,7 @@
         {
             "label": "Donate",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/donate",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
