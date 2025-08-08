@@ -55,7 +55,7 @@ sections:
             - pr-0
           borderColor: border-light
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 0
           borderRadius: none
   - title: Divider
     colors: bg-light-fg-dark
