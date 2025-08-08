@@ -1,6 +1,6 @@
 ---
 title: Careers
-slug: careers
+slug: donate
 sections:
   - title:
       text: A team that works closely together
