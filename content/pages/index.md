@@ -40,7 +40,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: ''
+      url: 'https://files.catbox.moe/li2lmv.mp4'
       autoplay: true
       loop: true
       muted: true
