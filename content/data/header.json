@@ -22,7 +22,7 @@
             "showIcon": false
         },
         {
-            "label": "Announcments",
+            "label": "Posts",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
