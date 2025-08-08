@@ -63,7 +63,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/samsung-logo-png-1300 (1).png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
