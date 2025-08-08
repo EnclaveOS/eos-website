@@ -56,7 +56,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: xx-small
+          borderRadius: none
   - title: Divider
     colors: bg-light-fg-dark
     styles:
