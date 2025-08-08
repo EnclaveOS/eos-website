@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: play
+        icon: chevronRight
         iconPosition: right
         style: secondary
         elementId: ''
