@@ -64,7 +64,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/samsung-logo-png-1300 (1).png
-        altText: Vise logo
+        altText: Samsung
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
