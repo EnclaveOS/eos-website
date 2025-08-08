@@ -44,14 +44,6 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Samsung",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "Google",
                     "url": "/",
                     "icon": "arrowRight",
