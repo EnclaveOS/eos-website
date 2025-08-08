@@ -67,7 +67,7 @@ sections:
         altText: Samsung
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/output-onlinepngtools (2).png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
