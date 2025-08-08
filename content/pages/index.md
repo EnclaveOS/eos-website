@@ -63,7 +63,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/output-onlinepngtools.png
+        url: /images/output-onlinepngtools (1).png
         altText: Samsung
         elementId: ''
       - type: ImageBlock
