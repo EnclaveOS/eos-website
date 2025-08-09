@@ -12,7 +12,7 @@ sections:
           Coming Soon
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/hero.svg
           altText: Business consulting
           elementId: ''
           styles:
