@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Credits",
-            "url": "/pricing",
+            "url": "/credits",
             "icon": "github",
             "iconPosition": "left",
             "style": "secondary",
@@ -44,7 +44,7 @@
         {
             "type": "Link",
             "label": "Devices",
-            "altText": "Careers page",
+            "altText": "List Of Devices",
             "url": "/devices",
             "icon": "arrowUp",
             "iconPosition": "left",
