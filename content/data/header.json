@@ -47,7 +47,7 @@
             "altText": "Careers page",
             "url": "/devices",
             "icon": "arrowUp",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary"
         }
     ],
