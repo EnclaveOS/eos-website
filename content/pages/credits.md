@@ -1,6 +1,6 @@
 ---
 title: Pricing
-slug: pricing
+slug: credits
 sections:
   - type: CarouselSection
     items:
