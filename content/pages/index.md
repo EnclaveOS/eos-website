@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get EnclaveOS
         altText: ''
-        url: /
+        url: /devices
         showIcon: true
         icon: chevronRight
         iconPosition: right
