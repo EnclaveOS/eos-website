@@ -23,7 +23,7 @@ sections:
             altText: ''
             url: 'https://www.paypal.me/GTVROfficial'
             showIcon: true
-            icon: arrowRight
+            icon: send
             iconPosition: right
             style: secondary
             elementId: ''
