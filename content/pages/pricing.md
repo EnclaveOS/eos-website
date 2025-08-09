@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Please Come Back Later
         tagline: Feature 2
         subtitle: ''
         text: |
