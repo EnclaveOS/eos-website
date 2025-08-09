@@ -11,7 +11,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/meta_size-all_v1.jpg
           altText: Business consulting
           elementId: ''
           styles:
