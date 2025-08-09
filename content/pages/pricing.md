@@ -5,7 +5,7 @@ sections: []
 seo:
   metaTitle: Credits To All Of The Enclave Team
   metaDescription: 'All Thanks To Us, We Make Your Phone 10x Better'
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Evolution-X-3__1_-removebg-preview.png
   type: Seo
 type: PageLayout
 ---
