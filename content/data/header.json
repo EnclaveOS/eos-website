@@ -35,7 +35,7 @@
             "label": "Donate",
             "altText": "Careers page",
             "url": "/donate",
-            "icon": "arrowRight",
+            "icon": "shoppingBag",
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
