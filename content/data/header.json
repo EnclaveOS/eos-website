@@ -15,7 +15,7 @@
         {
             "label": "Credits",
             "url": "/pricing",
-            "icon": "chevronBigLeft",
+            "icon": "github",
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
