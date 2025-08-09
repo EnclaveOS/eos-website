@@ -19,7 +19,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Donate The Enclave Team Now!
             altText: ''
             url: 'https://www.paypal.me/GTVROfficial'
             showIcon: true
