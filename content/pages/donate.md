@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Thank You For Your Support
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
