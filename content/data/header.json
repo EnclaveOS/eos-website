@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Credits",
-            "url": "/pricing",
+            "url": "/credits",
             "icon": "github",
             "iconPosition": "left",
             "style": "secondary",
