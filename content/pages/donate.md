@@ -23,7 +23,7 @@ sections:
             altText: Donate Now!
             url: 'https://www.paypal.me/GTVROfficial'
             showIcon: true
-            icon: shoppingBag
+            icon: send
             iconPosition: left
             style: secondary
             elementId: ''
