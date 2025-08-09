@@ -38,6 +38,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Donate",
+            "altText": "Careers page",
+            "url": "/devices",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         }
     ],
     "secondaryLinks": [],
