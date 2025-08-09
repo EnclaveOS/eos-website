@@ -45,7 +45,7 @@
             "links": [
                 {
                     "label": "All Devices",
-                    "url": "/",
+                    "url": "/devices",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
