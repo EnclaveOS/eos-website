@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: |
           Coming Soon
         image:
