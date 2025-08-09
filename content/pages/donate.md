@@ -20,7 +20,7 @@ sections:
         actions:
           - type: Link
             label: Donate!
-            altText: Buy now
+            altText: Donate Now!
             url: 'https://www.paypal.me/GTVROfficial'
             showIcon: true
             icon: shoppingBag
