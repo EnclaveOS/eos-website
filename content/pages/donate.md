@@ -19,7 +19,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: Buy now
+            label: Donate!
             altText: Buy now
             url: 'https://www.paypal.me/GTVROfficial'
             showIcon: true
