@@ -25,7 +25,7 @@ sections:
             showIcon: true
             icon: send
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-dark-fg-light
         styles:
