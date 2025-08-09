@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Thank You For Your Support
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: Your Donation Helps Us Continue Support
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
