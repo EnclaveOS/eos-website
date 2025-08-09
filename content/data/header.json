@@ -41,7 +41,7 @@
         },
         {
             "type": "Link",
-            "label": "Donate",
+            "label": "Devices",
             "altText": "Careers page",
             "url": "/devices",
             "icon": "arrowRight",
