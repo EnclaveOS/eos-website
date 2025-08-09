@@ -8,10 +8,8 @@ sections:
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Coming Soon
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
