@@ -15,38 +15,41 @@
         {
             "label": "Credits",
             "url": "/pricing",
-            "icon": "instagram",
-            "iconPosition": "right",
+            "icon": "github",
+            "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
-            "showIcon": false
+            "showIcon": true
         },
         {
             "label": "Posts",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "icon": "mail",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
             "label": "Donate",
             "altText": "Careers page",
             "url": "/donate",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "icon": "shoppingBag",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
             "type": "Link",
             "label": "Devices",
             "altText": "Careers page",
             "url": "/devices",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary"
+            "icon": "arrowUp",
+            "iconPosition": "left",
+            "style": "secondary",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [],
