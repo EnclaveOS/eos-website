@@ -5,10 +5,10 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Welcome To Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: You May Find EnclaveOS Recent Or Archived Posts Here!
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
