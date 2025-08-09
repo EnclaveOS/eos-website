@@ -44,4 +44,5 @@ seo:
   socialImage: /images/Untitled17_20250704201030.png
   type: Seo
 type: PageLayout
+isDraft: false
 ---
