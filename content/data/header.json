@@ -46,7 +46,7 @@
             "label": "Devices",
             "altText": "Careers page",
             "url": "/devices",
-            "icon": "arrowRight",
+            "icon": "arrowUp",
             "iconPosition": "right",
             "style": "secondary"
         }
