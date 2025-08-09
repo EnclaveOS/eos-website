@@ -17,16 +17,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions:
-          - type: Link
-            label: Donate!
-            altText: Donate Now!
-            url: 'https://www.paypal.me/GTVROfficial'
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-dark-fg-light
         styles:
           self:
