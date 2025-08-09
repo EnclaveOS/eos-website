@@ -25,7 +25,7 @@
             "label": "Posts",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "arrowRight",
+            "icon": "mail",
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
