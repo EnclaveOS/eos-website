@@ -16,7 +16,7 @@
             "label": "Credits",
             "url": "/pricing",
             "icon": "github",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
             "showIcon": true
