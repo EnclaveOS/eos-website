@@ -15,7 +15,7 @@
         {
             "label": "Credits",
             "url": "/pricing",
-            "icon": "send",
+            "icon": "chevronBigLeft",
             "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
