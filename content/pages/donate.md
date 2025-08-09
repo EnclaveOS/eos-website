@@ -22,7 +22,7 @@ sections:
             label: Get started
             altText: ''
             url: 'https://www.paypal.me/GTVROfficial'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
