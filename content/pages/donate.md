@@ -24,7 +24,7 @@ sections:
             url: 'https://www.paypal.me/GTVROfficial'
             showIcon: true
             icon: send
-            iconPosition: left
+            iconPosition: right
             style: secondary
             elementId: ''
         colors: bg-dark-fg-light
