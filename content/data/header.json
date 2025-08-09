@@ -48,7 +48,8 @@
             "url": "/devices",
             "icon": "arrowUp",
             "iconPosition": "left",
-            "style": "secondary"
+            "style": "secondary",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [],
