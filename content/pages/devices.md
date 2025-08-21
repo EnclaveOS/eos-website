@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
     subtitle: Get The UX Experience Here
     items:
       - type: FeaturedItem
