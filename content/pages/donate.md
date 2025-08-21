@@ -22,7 +22,7 @@ sections:
             label: Donate Through Patreon
             altText: ''
             url: 'https://www.patreon.com/EnclaveOS'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
