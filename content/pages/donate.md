@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Thank You For Your Support
+        title: ''
         tagline: Feature 2
         subtitle: Your Donation Helps Us Continue Support For Our Serivce
         text: ''
