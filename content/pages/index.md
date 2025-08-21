@@ -68,10 +68,17 @@ sections:
         title: Social Media Management
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ```
+
+          <p id="dpi-warning" style="display: none; color: #ff4444; font-weight:
+          bold;">
+            For the best experience, we recommend viewing this site on desktop while we fine-tune mobile DPI.
+          </p>
+
+
+          ```
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
