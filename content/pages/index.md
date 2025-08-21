@@ -17,6 +17,13 @@ sections:
       **Not pure AOSP — but refined from it, with purpose and polish.**
 
       **It’s more than a ROM. It’s your personal UX.**
+
+
+      ****
+
+
+      **We** Recommend You To Open This Website On PC Until We Fix The DPI On
+      Mobile
     actions:
       - label: Get EnclaveOS
         altText: ''
