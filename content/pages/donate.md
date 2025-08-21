@@ -19,6 +19,15 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://www.patreon.com/EnclaveOS'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+          - type: Button
             label: Donate Through PayPal!
             altText: ''
             url: 'https://www.paypal.me/GTVROfficial'
