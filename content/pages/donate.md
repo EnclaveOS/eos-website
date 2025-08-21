@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Thank You For Your Support
         tagline: Feature 2
-        subtitle: Your Donation Helps Us Continue Support
+        subtitle: Your Donation Helps Us Continue Support For Our Serivce
         text: ''
         image:
           type: ImageBlock
@@ -18,6 +18,15 @@ sections:
             self:
               borderRadius: medium
         actions:
+          - type: Button
+            label: Donate Through Patreon
+            altText: ''
+            url: 'https://www.patreon.com/EnclaveOS'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: right
+            style: secondary
+            elementId: ''
           - type: Button
             label: Donate Through PayPal!
             altText: ''
