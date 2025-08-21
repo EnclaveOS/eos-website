@@ -34,12 +34,12 @@ sections:
     media:
       type: VideoBlock
       title: ''
-      url: 'https://files.catbox.moe/xzwk8l.mp4'
+      url: 'https://files.catbox.moe/vvp57x.mp4'
       autoplay: true
       loop: true
       muted: true
       controls: false
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
