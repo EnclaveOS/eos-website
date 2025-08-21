@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Devices
       color: text-dark
       styles:
         self:
