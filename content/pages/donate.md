@@ -18,7 +18,7 @@ sections:
         altText: ''
         url: 'https://www.paypal.me/GTVROfficial'
         showIcon: true
-        icon: arrowRight
+        icon: shoppingBag
         iconPosition: right
         style: primary
         elementId: ''
