@@ -1,9 +1,9 @@
 {
-    "light": "#ffffff",
+    "light": "#000000",
     "dark": "#4A4A4A",
     "neutral": "#E8E8EB",
     "neutralAlt": "#DCDCDC",
-    "primary": "#2a2a2a",
+    "primary": "#62d5ff",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
@@ -75,7 +75,7 @@
         "type": "ThemeStyleButton"
     },
     "linkPrimary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"

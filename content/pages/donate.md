@@ -2,59 +2,62 @@
 title: Careers
 slug: donate
 sections:
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Thank You For Your Support
-        tagline: Feature 2
-        subtitle: Your Donation Helps Us Continue Support For Our Serivce
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/meta_size-all_v1.jpg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Donate Through Patreon
-            altText: ''
-            url: 'https://www.patreon.com/EnclaveOS'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: right
-            style: secondary
-            elementId: ''
-          - type: Button
-            label: Donate Through PayPal!
-            altText: ''
-            url: 'https://www.paypal.me/GTVROfficial'
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Your Support Helps Us
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Even A Single $1 Can Help Us Continue What We Do
+    text: ''
+    actions:
+      - type: Button
+        label: Donate Through PayPal
+        altText: ''
+        url: 'https://www.paypal.me/GTVROfficial'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Donate Through Patreon
+        altText: ''
+        url: 'https://www.patreon.com/EnclaveOS'
+        showIcon: true
+        icon: send
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: VideoBlock
+      title: ''
+      url: 'https://files.catbox.moe/xzwk8l.mp4'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '4:3'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 0
+          borderRadius: none
     colors: bg-light-fg-dark
     styles:
       self:
+        flexDirection: row
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
