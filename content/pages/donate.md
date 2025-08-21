@@ -23,7 +23,7 @@ sections:
             altText: ''
             url: 'https://www.patreon.com/EnclaveOS'
             showIcon: true
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: right
             style: secondary
             elementId: ''
