@@ -19,6 +19,8 @@ sections:
         subtitle: SM-G532G/FM/MT/DS
         text: |
           UX And Legacy Compatible With OTA
+
+
           EnclaveUX Version: 1.0
         image:
           type: ImageBlock
