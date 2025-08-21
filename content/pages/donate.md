@@ -57,7 +57,7 @@ sections:
         flexDirection: row
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
