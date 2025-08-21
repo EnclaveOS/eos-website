@@ -14,7 +14,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Donate Through PayPal
         altText: ''
         url: 'https://www.paypal.me/GTVROfficial'
         showIcon: true
