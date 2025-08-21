@@ -3,41 +3,7 @@ title: Careers
 slug: donate
 sections:
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: ''
-        tagline: Feature 2
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Donate Through PayPal!
-            altText: ''
-            url: 'https://www.paypal.me/GTVROfficial'
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
+    items: []
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
