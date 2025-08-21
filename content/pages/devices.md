@@ -44,6 +44,8 @@ sections:
         subtitle: SM-J510M/Y/G/F/FN
         text: |
           UX Compatible Only With OTA
+
+
           EnclaveUX Version: 1.0
         image:
           type: ImageBlock
