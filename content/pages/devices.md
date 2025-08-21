@@ -16,7 +16,7 @@ sections:
       - type: FeaturedItem
         title: Galaxy J2 Prime
         tagline: grandpplte
-        subtitle: This is the item subtitle
+        subtitle: SM-G532G/
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
