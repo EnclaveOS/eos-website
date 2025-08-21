@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
       **EnclaveOS is a custom Android experience built for power users.**
 
       **Rooted with Magisk, bundled with GApps, and tuned for deep
@@ -24,6 +24,7 @@ sections:
 
       For the **best experience**, we recommend viewing this site on **desktop**
       while we fine-tune mobile DPI
+
     actions:
       - label: Get EnclaveOS
         altText: ''
