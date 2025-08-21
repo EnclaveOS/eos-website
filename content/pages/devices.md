@@ -39,7 +39,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Galaxy J5 2016
         tagline: j5xnlte
         subtitle: This is the item subtitle
         text: |
