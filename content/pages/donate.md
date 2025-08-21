@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Thank You For Your Support
         tagline: Feature 2
-        subtitle: Your Donation Helps Us Continue Support
+        subtitle: Your Donation Helps Us Continue Support For Our Serivce
         text: ''
         image:
           type: ImageBlock
