@@ -18,7 +18,8 @@ sections:
         tagline: grandpplte
         subtitle: SM-G532G/FM/MT/DS
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          UX And Legacy Compatible With OTA
+          EnclaveUX Version: 1.0
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
