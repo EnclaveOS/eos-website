@@ -34,7 +34,7 @@ sections:
     media:
       type: VideoBlock
       title: ''
-      url: 'https://files.catbox.moe/xzwk8l.mp4'
+      url: 'https://files.catbox.moe/vvp57x.mp4'
       autoplay: true
       loop: true
       muted: true
