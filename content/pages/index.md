@@ -71,7 +71,7 @@ sections:
         text: >+
           ```
 
-          <p id="dpi-warning" style="display: none; color: #ff4444; font-weight:
+          p id="dpi-warning" style="display: none; color: #ff4444; font-weight:
           bold;">
             For the best experience, we recommend viewing this site on desktop while we fine-tune mobile DPI.
           </p>
