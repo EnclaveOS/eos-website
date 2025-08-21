@@ -14,7 +14,7 @@ sections:
     subtitle: Get The UX Experience Here
     items:
       - type: FeaturedItem
-        title: Samsung Galaxy J2 Prime
+        title: Galaxy J2 Prime
         tagline: ''
         subtitle: This is the item subtitle
         text: |
