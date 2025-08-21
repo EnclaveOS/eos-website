@@ -43,7 +43,8 @@ sections:
         tagline: j5xnlte
         subtitle: SM-J510M/Y/G/F/FN
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          UX Compatible Only With OTA
+          EnclaveUX Version: 1.0
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
