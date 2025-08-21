@@ -19,11 +19,11 @@ sections:
       **It’s more than a ROM. It’s your personal UX.**
 
 
-      ****
+      ***
 
 
-      **We** Recommend You To Open This Website On PC Until We Fix The DPI On
-      Mobile
+      For the **best experience**, we recommend viewing this site on **desktop**
+      while we fine-tune mobile DPI
     actions:
       - label: Get EnclaveOS
         altText: ''
