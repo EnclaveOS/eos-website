@@ -22,7 +22,7 @@ sections:
           EnclaveUX Version: 1.0
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-08-21 141635.png
           altText: Background alt text
           styles:
             self:
