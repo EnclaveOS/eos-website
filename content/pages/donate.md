@@ -12,7 +12,16 @@ sections:
           textAlign: left
     subtitle: Even A Single $1 Can Help Us Continue What We Do
     text: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.patreon.com/EnclaveOS'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: VideoBlock
       title: ''
