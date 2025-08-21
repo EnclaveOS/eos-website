@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: ''
       url: 'https://files.catbox.moe/xzwk8l.mp4'
       autoplay: true
       loop: true
