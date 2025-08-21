@@ -18,7 +18,7 @@ sections:
         altText: ''
         url: 'https://www.patreon.com/EnclaveOS'
         showIcon: true
-        icon: chevronBigLeft
+        icon: send
         iconPosition: right
         style: secondary
         elementId: ''
