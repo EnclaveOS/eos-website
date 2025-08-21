@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: Galaxy J5 2016
         tagline: j5xnlte
-        subtitle: This is the item subtitle
+        subtitle: SM-J510M/
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
