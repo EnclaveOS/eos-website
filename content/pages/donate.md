@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: Even A Single $1 Can Help Us Continue What We Do
     text: ''
     actions:
