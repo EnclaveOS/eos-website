@@ -14,7 +14,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Donate Though Patreon
         altText: ''
         url: 'https://www.patreon.com/EnclaveOS'
         showIcon: false
