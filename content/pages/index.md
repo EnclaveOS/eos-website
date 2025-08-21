@@ -62,50 +62,6 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: none
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Social Media Management
-        tagline: Feature 1
-        subtitle: Increase your reach
-        text: >+
-          ```
-
-          p id="dpi-warning" style="display: none; color: #ff4444; font-weight:
-          bold;">
-            For the best experience, we recommend viewing this site on desktop while we fine-tune mobile DPI.
-          </p>
-
-
-          ```
-
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
