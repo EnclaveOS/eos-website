@@ -14,15 +14,6 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Donate Through PayPal
-        altText: ''
-        url: 'https://www.paypal.me/GTVROfficial'
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Donate Through Patreon
         altText: ''
         url: 'https://www.patreon.com/EnclaveOS'
@@ -30,6 +21,15 @@ sections:
         icon: send
         iconPosition: right
         style: secondary
+        elementId: ''
+      - type: Button
+        label: Donate Through PayPal
+        altText: ''
+        url: 'https://www.paypal.me/GTVROfficial'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: right
+        style: primary
         elementId: ''
     media:
       type: VideoBlock
