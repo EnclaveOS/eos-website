@@ -8,7 +8,7 @@ excerpt: >-
   support!
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled17_20250704201030.png
+  url: /images/fgafzw.jpg
   altText: Thumbnail
   styles:
     self:
