@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Flareneo
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Helper And Tips
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
