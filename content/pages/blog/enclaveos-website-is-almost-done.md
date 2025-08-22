@@ -17,7 +17,7 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: Our Website Is Almost Complete!
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: Thank You For The Support!
   socialImage: /images/Untitled17_20250704201030.png
   metaTags: []
 colors: bg-light-fg-dark
