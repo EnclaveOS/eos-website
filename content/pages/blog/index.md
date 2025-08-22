@@ -1,7 +1,7 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 8
+numOfPostsPerPage: 2
 enableSearch: true
 topSections:
   - title:
@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: You May Find EnclaveOS Recent Or Archived Posts Here!
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/enclaveos-website-is-almost-done.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -31,14 +31,35 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Posts
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+    This is the posts page of EnclaveOS, where you can find changelogs, Google
+    security patches, and more.
+  socialImage: /images/Untitled17_20250704201030.png
   type: Seo
 type: PostFeedLayout
-bottomSections: []
+bottomSections:
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        justifyContent: center
 postFeed:
   type: PagedPostsSection
   title: null
