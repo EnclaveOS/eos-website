@@ -110,6 +110,6 @@ seo:
   metaTitle: Devices
   metaDescription: 'Find Your Devices Here And Get That UX Taste With EnclaveOS Today,'
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Untitled17_20250704201030.png
   metaTags: []
 ---
