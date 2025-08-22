@@ -45,8 +45,7 @@ sections:
         tagline: j5xnlte
         subtitle: SM-J510M/Y/G/F/FN
         text: |
-          UX Compatible Only With OTA
-
+          UX And Legacy Compatible With OTA
 
           EnclaveUX Version: 1.0
         image:
