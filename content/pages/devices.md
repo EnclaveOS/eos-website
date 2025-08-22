@@ -45,7 +45,7 @@ sections:
             altText: ''
             url: >-
               https://download1532.mediafire.com/tglrh849y1og97M5UhQ7OSFsRejSQPgz3GmjQ6HWYOQ_aFSXcT3XYr8t7MtDKEtn20Qovzu05FSlRLho0wjh6DhEC_ETgWGUDX6qWKTGA8HW1Jw6P10J-6haVAxHixQWdLB2nHQi5Esm7Pu-AyCe5hWZCP1pChEayTBbXD9ZvL8d-ThU/pz5h8ztl6ck0y0k/EnclaveOS+BETA+0.1+Creamy+Oreo.zip
-            showIcon: true
+            showIcon: false
             icon: send
             iconPosition: right
             style: secondary
