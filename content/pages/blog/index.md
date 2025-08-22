@@ -35,7 +35,7 @@ seo:
   metaDescription: >-
     This is the posts page of EnclaveOS, where you can find changelogs, Google
     security patches, and more.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/Untitled17_20250704201030.png
   type: Seo
 type: PostFeedLayout
 bottomSections:
