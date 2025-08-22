@@ -86,6 +86,16 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://www.mediafire.com/file/of9a61j8bzqcf1m/j5xnlte-EnclaveOS2.zip/file
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
