@@ -1,6 +1,6 @@
 ---
 title: Coming Soon
-slug: top-ten-lessons-we-learned
+slug: enclaveos-website-is-almost-complete
 date: ''
 excerpt: 'Please Wait Until We Finish Up, Thank You'
 featuredImage:
