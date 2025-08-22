@@ -108,7 +108,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Devices
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: 'Find Your Devices Here And Get That UX Taste With EnclaveOS Today,'
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
