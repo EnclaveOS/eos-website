@@ -77,7 +77,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Information
             altText: ''
             url: >-
               https://xdaforums.com/t/enclaveos-for-j5-2016-official-ota-10.4744011/
