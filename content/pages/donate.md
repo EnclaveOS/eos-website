@@ -61,7 +61,7 @@ sections:
 seo:
   metaTitle: Donate
   metaDescription: 'Donate And Support Us With Either PayPal Or Patreon :)'
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Untitled17_20250704201030.png
   type: Seo
 type: PageLayout
 ---
