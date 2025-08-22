@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Donation
 slug: donate
 sections:
   - type: GenericSection
@@ -9,19 +9,10 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: Even A Single $1 Can Help Us Continue What We Do
     text: ''
     actions:
-      - type: Button
-        label: Donate Through PayPal
-        altText: ''
-        url: 'https://www.paypal.me/GTVROfficial'
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Button
         label: Donate Through Patreon
         altText: ''
@@ -30,6 +21,15 @@ sections:
         icon: send
         iconPosition: right
         style: secondary
+        elementId: ''
+      - type: Button
+        label: Donate Through PayPal
+        altText: ''
+        url: 'https://www.paypal.me/GTVROfficial'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: right
+        style: primary
         elementId: ''
     media:
       type: VideoBlock
@@ -57,11 +57,11 @@ sections:
         flexDirection: row
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Donate
+  metaDescription: 'Donate And Support Us With Either PayPal Or Patreon :)'
+  socialImage: /images/Untitled17_20250704201030.png
   type: Seo
 type: PageLayout
 ---
