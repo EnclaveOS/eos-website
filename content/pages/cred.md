@@ -1,6 +1,6 @@
 ---
 title: Credits
-slug: credits
+slug: cred
 sections:
   - type: FeaturedItemsSection
     title:
