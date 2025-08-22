@@ -16,7 +16,7 @@ slug: enclaveos-website-is-almost-done
 isFeatured: true
 seo:
   type: Seo
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+  metaTitle: Our Website Is Almost Complete!
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature2.svg
   metaTags: []
