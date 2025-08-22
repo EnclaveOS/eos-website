@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: 'Please Wait Until We Finish Up, Thank You'
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature2.svg
+  url: /images/Untitled17_20250704201030.png
   altText: Thumbnail
   styles:
     self:
