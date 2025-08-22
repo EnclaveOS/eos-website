@@ -2,39 +2,120 @@
 type: PageLayout
 title: Devices
 sections:
-  - type: CarouselSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Devices
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
+    subtitle: Get The UX Experience Here
     items:
       - type: FeaturedItem
-        title: Please Come Back Later
-        tagline: Feature 2
-        subtitle: ''
+        title: Galaxy J2 Prime
+        tagline: grandpplte
+        subtitle: SM-G532G/FM/MT/DS
         text: |
-          Coming Soon
+          UX And Legacy Compatible With OTA
+
+
+          EnclaveUX Version: 1.0
         image:
           type: ImageBlock
-          url: /images/Untitled17_20250704201030.png
-          altText: Business consulting
-          elementId: ''
+          url: /images/Screenshot 2025-08-21 141635.png
+          altText: Background alt text
           styles:
             self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Information
+            altText: ''
+            url: >-
+              https://xdaforums.com/t/rom-g532x-8-1-0-backup-file-beta-enclaveos-creamy-oreo-for-j2-prime.4736807/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+          - type: Button
+            label: Download Legacy
+            altText: ''
+            url: >-
+              https://download1532.mediafire.com/tglrh849y1og97M5UhQ7OSFsRejSQPgz3GmjQ6HWYOQ_aFSXcT3XYr8t7MtDKEtn20Qovzu05FSlRLho0wjh6DhEC_ETgWGUDX6qWKTGA8HW1Jw6P10J-6haVAxHixQWdLB2nHQi5Esm7Pu-AyCe5hWZCP1pChEayTBbXD9ZvL8d-ThU/pz5h8ztl6ck0y0k/EnclaveOS+BETA+0.1+Creamy+Oreo.zip
+            showIcon: false
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
             flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Galaxy J5 2016
+        tagline: j5xnlte
+        subtitle: SM-J510M/Y/G/F/FN
+        text: |
+          UX And Legacy Compatible With OTA
+
+          EnclaveUX Version: 1.0
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2025-08-21 142124.png
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Information
+            altText: ''
+            url: >-
+              https://xdaforums.com/t/enclaveos-for-j5-2016-official-ota-10.4744011/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+          - type: Button
+            label: Download Legacy
+            altText: ''
+            url: >-
+              https://www.mediafire.com/file/of9a61j8bzqcf1m/j5xnlte-EnclaveOS2.zip/file
+            showIcon: false
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
@@ -42,9 +123,9 @@ slug: devices
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Devices
+  metaDescription: 'Find Your Devices Here And Get That UX Taste With EnclaveOS Today,'
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Untitled17_20250704201030.png
   metaTags: []
 ---
