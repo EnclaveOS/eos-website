@@ -60,7 +60,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Donate
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: 'Donate And Support Us With Either PayPal Or Patreon :)'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
