@@ -16,8 +16,9 @@ sections:
         title: Flareneo
         tagline: ''
         subtitle: Helper And Tips
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          He introduced me to Netlify, and thanks to him, we were able to create
+          this website!
         image:
           type: ImageBlock
           url: /images/527619034_18060492440348803_8251241379507536354_n.jpg
