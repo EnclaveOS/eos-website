@@ -25,4 +25,4 @@ styles:
   self:
     flexDirection: row
 ---
-Please Wait Until We Finish Up, Thank You
+We are almost finished with the website, and it's so exciting! We appreciate everyone who supported us through donations and hope you enjoy the stable release when it's ready.
