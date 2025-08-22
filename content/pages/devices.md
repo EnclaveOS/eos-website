@@ -31,7 +31,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Information
             altText: ''
             url: >-
               https://xdaforums.com/t/rom-g532x-8-1-0-backup-file-beta-enclaveos-creamy-oreo-for-j2-prime.4736807/
