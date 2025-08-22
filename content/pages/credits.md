@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Credits
 slug: credits
 sections:
   - type: FeaturedItemsSection
