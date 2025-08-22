@@ -13,7 +13,7 @@ sections:
     subtitle: We thank everyone who supported us throughout our journey.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Flareneo
         tagline: ''
         subtitle: This is the item subtitle
         text: |
