@@ -75,7 +75,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://xdaforums.com/t/enclaveos-for-j5-2016-official-ota-10.4744011/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
