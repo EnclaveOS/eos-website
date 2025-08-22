@@ -18,7 +18,7 @@ seo:
   type: Seo
   metaTitle: Our Website Is Almost Complete!
   metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  socialImage: /images/Untitled17_20250704201030.png
   metaTags: []
 colors: bg-light-fg-dark
 styles:
