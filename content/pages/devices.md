@@ -91,7 +91,7 @@ sections:
             altText: ''
             url: >-
               https://www.mediafire.com/file/of9a61j8bzqcf1m/j5xnlte-EnclaveOS2.zip/file
-            showIcon: true
+            showIcon: false
             icon: send
             iconPosition: right
             style: secondary
