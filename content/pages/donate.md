@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Donation
 slug: donate
 sections:
   - type: GenericSection
