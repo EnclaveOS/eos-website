@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Welcome
-date: '0002-08-22'
+date: '2025-08-22'
 author: content/data/person1.json
 excerpt: 'Please Wait Until We Finish Up, Thank You'
 featuredImage:
