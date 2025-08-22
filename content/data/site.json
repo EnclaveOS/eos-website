@@ -1,7 +1,7 @@
 {
     "favicon": "/images/Evolution-X-3__1_-removebg-preview.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "EnclaveOS",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
