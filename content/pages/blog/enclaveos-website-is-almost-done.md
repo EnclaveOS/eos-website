@@ -3,7 +3,7 @@ type: PostLayout
 title: Welcome
 date: '2025-08-22'
 author: content/data/person1.json
-excerpt: 'Please Wait Until We Finish Up, Thank You'
+excerpt: 'Please Read This Post, This Is A Thank You For Your Support!'
 featuredImage:
   type: ImageBlock
   url: /images/Untitled17_20250704201030.png
