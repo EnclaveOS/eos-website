@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: We Thank All The People Who Helped Us On Our Journey
     items:
       - type: FeaturedItem
         title: Feature Item One
