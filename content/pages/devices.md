@@ -87,7 +87,7 @@ sections:
             style: secondary
             elementId: ''
           - type: Button
-            label: Get started
+            label: Download Legacy
             altText: ''
             url: >-
               https://www.mediafire.com/file/of9a61j8bzqcf1m/j5xnlte-EnclaveOS2.zip/file
