@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Coming Soon
+title: Welcome
 date: ''
 author: content/data/person1.json
 excerpt: 'Please Wait Until We Finish Up, Thank You'
