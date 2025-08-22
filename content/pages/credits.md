@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: We Thank All The People Who Helped Us On Our Journey
+    subtitle: We thank everyone who supported us throughout our journey.
     items:
       - type: FeaturedItem
         title: Feature Item One
