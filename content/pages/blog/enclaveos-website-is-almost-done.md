@@ -3,7 +3,9 @@ type: PostLayout
 title: Welcome
 date: '2025-08-22'
 author: content/data/person1.json
-excerpt: 'Please Read This Post, This Is A Thank You For Your Support!'
+excerpt: >-
+  Please Read This Post, This Is A Thank You For Your Support!Please take a
+  moment to read this post—it's a heartfelt thank you for all your support!
 featuredImage:
   type: ImageBlock
   url: /images/Untitled17_20250704201030.png
