@@ -25,4 +25,6 @@ styles:
   self:
     flexDirection: row
 ---
-We are almost finished with the website, and it's so exciting! We appreciate everyone who supported us through donations and hope you enjoy the stable release when it's ready.
+We’re thrilled to announce that the website is almost complete! We’re so grateful for everyone who supported us through donations, and we hope you’ll enjoy the stable release once it’s ready.
+
+This project started just 12 days ago, and it’s been an honor to have your support along the way. The legacy website (https\://www\.sites.google.com/view/enclaveos) will be redirected to the new one, as the old site will be replaced. Thank you again for your support!
