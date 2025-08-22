@@ -2,7 +2,7 @@
 title: Posts
 slug: /Post
 numOfPostsPerPage: 2
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: Welcome To Posts
