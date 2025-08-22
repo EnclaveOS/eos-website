@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: Posts
   metaDescription: >-
-    This is the Posts page of EnclaveOS, Where You Will Find Changelogs, Google
-    Security Patches And More
+    This is the posts page of EnclaveOS, where you can find changelogs, Google
+    security patches, and more.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
