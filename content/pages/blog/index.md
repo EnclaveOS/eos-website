@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: Posts
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    This is the Posts page of EnclaveOS, Where You Will Find Changelogs, Google
+    Security Patches And More
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
