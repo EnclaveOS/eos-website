@@ -99,7 +99,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://enclaveos.com/images/video-assets/UX-vid.mp4'
+      url: public/images/video-assets/steps-vid.mp4
       autoplay: true
       loop: true
       muted: true
