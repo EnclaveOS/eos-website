@@ -99,7 +99,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://screenapp.io/app/#/shared/rxTCxwJOmt'
+      url: h.uguu.se/FlyNcnWY.mp4
       autoplay: true
       loop: true
       muted: true
