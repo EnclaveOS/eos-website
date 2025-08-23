@@ -90,7 +90,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://enclaveos.netlify.app/images/video-assets/UX-vid.mp4'
+      url: 'https://qu.ax/BTrxQ.mp4'
       autoplay: true
       loop: false
       muted: true
