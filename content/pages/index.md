@@ -99,7 +99,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: public/images/video-assets/steps-vid.mp4
+      url: 'https://enclaveos.netlify.app/images/video-assets/steps-vid.mp4'
       autoplay: true
       loop: true
       muted: true
