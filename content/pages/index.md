@@ -78,22 +78,13 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      **EnclaveOS is a custom Android experience built for power users.**
-
-      **Rooted with Magisk, bundled with GApps, and tuned for deep
-      customization.**
-
-      **Not pure AOSP — but refined from it, with purpose and polish.**
-
-      **It’s more than a ROM. It’s your personal UX.**
+      EnclaveUX showcases the future of UI and customization, aiming to fully
+      replace other custom ROMs with EnclaveOS. With adequate support, it has
+      the potential to become even more refined and innovative. Now available on
+      upcoming devices and compatible models with UX 1.0.
 
 
-
-
-      ⚠️ **Display Resolution Warning**  
-
-      We're actively working to improve mobile compatibility. For optimal
-      clarity and immersion, please view this site on a desktop or tablet.
+      *`Restrictions apply; devices must meet compatibility requirements.`*
 
     actions:
       - type: Button
