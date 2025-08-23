@@ -74,7 +74,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: UXIfy Your Phone!
+      text: Shipped With EnclaveUX 1.0
       color: text-dark
     subtitle: ''
     text: >+
