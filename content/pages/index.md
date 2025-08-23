@@ -86,16 +86,7 @@ sections:
 
       *`Restrictions apply; devices must meet compatibility requirements.`*
 
-    actions:
-      - type: Button
-        label: Get EnclaveOS
-        altText: ''
-        url: /devices
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: VideoBlock
       title: Title of the video
