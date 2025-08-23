@@ -99,7 +99,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://files.catbox.moe/li2lmv.mp4'
+      url: 'https://screenapp.io/app/#/shared/rxTCxwJOmt'
       autoplay: true
       loop: true
       muted: true
