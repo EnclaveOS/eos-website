@@ -220,8 +220,7 @@ sections:
       text: What Are You Waiting For?
       color: text-dark
     subtitle: Make Your UX
-    text: |
-      And Make custom ROMs beautiful and Refined today!
+    text: ''
     actions:
       - type: Button
         label: Get started
