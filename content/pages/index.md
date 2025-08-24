@@ -184,7 +184,7 @@ sections:
       title: Title of the video
       url: 'https://qu.ax/BTrxQ.mp4'
       autoplay: true
-      loop: false
+      loop: true
       muted: true
       controls: false
       aspectRatio: '4:3'
