@@ -219,7 +219,7 @@ sections:
       type: TitleBlock
       text: What Are You Waiting For?
       color: text-dark
-    subtitle: Make Your UX
+    subtitle: Make Your UX And Make custom ROMs beautiful and Refined today!
     text: ''
     actions:
       - type: Button
