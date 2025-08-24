@@ -230,7 +230,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/background-wallpaper-light-removebg-preview.png
+      url: /images/background-wallpaper-light-removebg-preview (1).png
       altText: Fun feature preview
     badge:
       type: Badge
