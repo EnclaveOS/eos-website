@@ -220,9 +220,8 @@ sections:
       text: What Are You Waiting For?
       color: text-dark
     subtitle: Make Your UX
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      And Make custom ROMs beautiful and Refined today!
     actions:
       - type: Button
         label: Get started
