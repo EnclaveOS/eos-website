@@ -125,7 +125,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Shipped With EnclaveUX 1.0
+      text: With Just 3 Steps You Are Ready
       color: text-dark
     subtitle: ''
     text: >+
