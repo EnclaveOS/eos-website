@@ -219,7 +219,7 @@ sections:
       type: TitleBlock
       text: What Are You Waiting For?
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Make Your UX
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
