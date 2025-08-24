@@ -174,15 +174,10 @@ sections:
       text: A Lot Of Good Features Included
       color: text-dark
     subtitle: ''
-    text: >+
-      EnclaveUX showcases the future of UI and customization, aiming to fully
-      replace other custom ROMs with EnclaveOS. With adequate support, it has
-      the potential to become even more refined and innovative. Now available on
-      upcoming devices and compatible models with UX 1.0.
-
-
-      *`Restrictions apply; devices must meet compatibility requirements.`*
-
+    text: >
+      EnclaveOS is loaded with features like Google Apps, Magisk, Xposed,
+      E-Themer, and so much more, making it hard to switch back to any other
+      custom ROMs.
     actions: []
     media:
       type: VideoBlock
