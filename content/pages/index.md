@@ -217,7 +217,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: What Are You Waiting For?
       color: text-dark
     subtitle: Increase your reach
     text: >
