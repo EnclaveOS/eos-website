@@ -128,15 +128,10 @@ sections:
       text: With Just 3 Steps You Are Ready
       color: text-dark
     subtitle: ''
-    text: >+
-      EnclaveUX showcases the future of UI and customization, aiming to fully
-      replace other custom ROMs with EnclaveOS. With adequate support, it has
-      the potential to become even more refined and innovative. Now available on
-      upcoming devices and compatible models with UX 1.0.
-
-
-      *`Restrictions apply; devices must meet compatibility requirements.`*
-
+    text: >
+      We provide detailed instructions for flashing TWRP and EnclaveOS, so you
+      can fully enjoy that amazing user experience! Plus, if you change your
+      mind, we offer free assistance to restore your phone at no cost.
     actions: []
     media:
       type: VideoBlock
