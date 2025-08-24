@@ -224,7 +224,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /devices
         icon: arrowRight
         iconPosition: right
         style: secondary
