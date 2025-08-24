@@ -171,7 +171,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Shipped With EnclaveUX 1.0
+      text: A Lot Of Good Features Included
       color: text-dark
     subtitle: ''
     text: >+
