@@ -168,6 +168,57 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Shipped With EnclaveUX 1.0
+      color: text-dark
+    subtitle: ''
+    text: >+
+      EnclaveUX showcases the future of UI and customization, aiming to fully
+      replace other custom ROMs with EnclaveOS. With adequate support, it has
+      the potential to become even more refined and innovative. Now available on
+      upcoming devices and compatible models with UX 1.0.
+
+
+      *`Restrictions apply; devices must meet compatibility requirements.`*
+
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://qu.ax/VOlYB.mp4'
+      autoplay: true
+      loop: false
+      muted: true
+      controls: false
+      aspectRatio: '4:3'
+      styles:
+        self:
+          padding:
+            - pt-0
+            - pb-0
+            - pl-0
+            - pr-0
+          borderColor: border-light
+          borderStyle: solid
+          borderWidth: 0
+          borderRadius: none
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
