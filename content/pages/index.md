@@ -182,7 +182,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://qu.ax/VOlYB.mp4'
+      url: 'https://qu.ax/BTrxQ.mp4'
       autoplay: true
       loop: false
       muted: true
