@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Before Asking Questions, Please Read The FAQ Before Doing So'
+    subtitle: 'Before asking questions, please make sure to read the FAQ first.'
     items:
       - type: FeaturedItem
         title: Account Executive
