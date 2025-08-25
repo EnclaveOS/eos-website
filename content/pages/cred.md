@@ -84,7 +84,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/avatar1.svg
           altText: Featured item
           styles:
             self:
