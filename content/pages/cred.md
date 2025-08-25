@@ -78,7 +78,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Credits
+      text: Donators
       color: text-dark
       styles:
         self:
