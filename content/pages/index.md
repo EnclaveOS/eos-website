@@ -214,32 +214,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: What Are You Waiting For?
-      color: text-dark
-    subtitle: Make Your UX And Make custom ROMs beautiful and Refined today!
-    text: ''
-    actions:
-      - type: Button
-        label: Get started
-        url: /devices
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/background-wallpaper-light-removebg-preview (1).png
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
