@@ -13,7 +13,7 @@ sections:
     subtitle: 'Before asking questions, please make sure to read the FAQ first.'
     items:
       - type: FeaturedItem
-        title: Will This Brick My Phone
+        title: Will This Brick My Phone?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
