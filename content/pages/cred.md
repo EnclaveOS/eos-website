@@ -46,7 +46,7 @@ sections:
           this website!
         image:
           type: ImageBlock
-          url: /images/527619034_18060492440348803_8251241379507536354_n.jpg
+          url: /images/channels4_profile.jpg
           altText: Background alt text
           styles:
             self:
