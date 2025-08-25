@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Will This Brick My Phone?
-        subtitle: Sales
+        subtitle: As Long As You Read Carefully
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
