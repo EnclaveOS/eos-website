@@ -75,7 +75,7 @@ sections:
       - type: FeaturedItem
         title: More Questions And Answers Coming Soon
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
