@@ -15,10 +15,10 @@ sections:
       - type: FeaturedItem
         title: Will This Brick My Phone?
         subtitle: As Long As You Read Carefully
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          You won't risk bricking your phone if you carefully read and follow
+          the instructions. Under no circumstances should you follow any
+          guidelines from social media, as they may be fake or outdated.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
