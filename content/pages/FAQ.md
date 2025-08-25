@@ -56,10 +56,11 @@ sections:
       - type: FeaturedItem
         title: How Can I Support A Device
         subtitle: With The UX Development Application
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          You can support your device officially, but always make sure to listen
+          carefully to the person. Once it's ready, we will add it to our list,
+          release it on XDA, and credit you in the [credits](/cred) tab
+          (Developers).
         actions: []
         colors: bg-neutral-fg-dark
         styles:
