@@ -35,10 +35,11 @@ sections:
       - type: FeaturedItem
         title: Why Can't I Find My Device In The List?
         subtitle: It May Not Be Supported
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If you cannot locate your device, it may be unsupported or not yet
+          developed. Always double-check the Devices tab before reaching out to
+          us. Unofficial builds of our custom ROM might be available for your
+          device on XDA, but they could have bugs, so proceed with caution.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
