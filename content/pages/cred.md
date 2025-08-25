@@ -42,8 +42,8 @@ sections:
         tagline: ''
         subtitle: General Credits
         text: >
-          He introduced me to Netlify, and thanks to him, we were able to create
-          this website!
+          A friend of mine might want to credit her, as she's going through a
+          lot in life.
         image:
           type: ImageBlock
           url: /images/channels4_profile.jpg
