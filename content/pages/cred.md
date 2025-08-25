@@ -37,6 +37,31 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: MikuyFox
+        tagline: ''
+        subtitle: Helper And Tips
+        text: >
+          He introduced me to Netlify, and thanks to him, we were able to create
+          this website!
+        image:
+          type: ImageBlock
+          url: /images/527619034_18060492440348803_8251241379507536354_n.jpg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
