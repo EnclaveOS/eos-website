@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: We thank everyone who supported us throughout our journey.
+    subtitle: We thank everyone who helped us throughout our journey.
     items:
       - type: FeaturedItem
         title: Flareneo
