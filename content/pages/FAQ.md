@@ -34,7 +34,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Why Can't I Find My Device In The List?
-        subtitle: Marketing
+        subtitle: It May Not Be Supported
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
