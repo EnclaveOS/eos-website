@@ -137,7 +137,7 @@ sections:
       - type: FeaturedItem
         title: 'Credits Is Currently Built, Thank You'
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
