@@ -40,7 +40,7 @@ sections:
       - type: FeaturedItem
         title: MikuyFox
         tagline: ''
-        subtitle: Helper And Tips
+        subtitle: General Credits
         text: >
           He introduced me to Netlify, and thanks to him, we were able to create
           this website!
