@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: We thank everyone who supported us throughout our journey.
+    subtitle: We thank everyone who helped us throughout our journey.
     items:
       - type: FeaturedItem
         title: Flareneo
@@ -37,6 +37,31 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: MikuyFox
+        tagline: ''
+        subtitle: General Credits
+        text: >
+          A friend of mine might want to credit her, as she's going through a
+          lot in life.
+        image:
+          type: ImageBlock
+          url: /images/channels4_profile.jpg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
@@ -47,6 +72,97 @@ sections:
           - pl-8
           - pb-8
           - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: 'Credits Is Currently Built, Thank You'
+        tagline: Feature 1
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/avatar1.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Donators
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: We thank everyone who supported us throughout our journey.
+    items: []
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: 'Credits Is Currently Built, Thank You'
+        tagline: Feature 1
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/avatar1.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
         justifyContent: center
       subtitle:
         textAlign: center
