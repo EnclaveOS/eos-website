@@ -38,7 +38,7 @@
             },
             {
                 "type": "Link",
-                "label": "Buy now",
+                "label": "About EnclaveUX",
                 "altText": "Buy now",
                 "url": "/AboutEnclaveUX",
                 "showIcon": false,
