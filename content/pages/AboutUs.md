@@ -31,7 +31,7 @@ sections:
     badge:
       type: Badge
       label: This is a badge
-      color: text-primary
+      color: text-dark
     colors: bg-light-fg-dark
     styles:
       self:
