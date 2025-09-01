@@ -46,7 +46,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: secondary
         showIcon: true
