@@ -29,7 +29,7 @@
                 "type": "Link",
                 "label": "What Is EnclaveOS",
                 "altText": "",
-                "url": "/blog",
+                "url": "/AboutEnclaveOS",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
