@@ -58,7 +58,7 @@ sections:
     badge:
       type: Badge
       label: Make Your UX Possible
-      color: text-primary
+      color: text-dark
     colors: bg-light-fg-dark
 slug: UXDevApp
 isDraft: false
