@@ -27,7 +27,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "What Is EnclaveOS",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,
