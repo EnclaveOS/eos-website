@@ -4,10 +4,66 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "The Enclave Team Will NOT Be Responsible For Any Damages From Your Device, Please Consult Our FAQ For More Information\n\nWe Can Help You Restore Your Phone Back To Original State, Contact Us From Phone Number (939) 343-1513\n\n\n\n[**FAQ**](/FAQ)\n\n",
+    "text": "The Enclave Team Will NOT Be Responsible For Any Damages From Your Device, Please Consult Our FAQ For More Information\n\nWe Can Help You Restore Your Phone Back To Original State, Contact Us From Phone Number (939) 343-1513\n\n\n\n",
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "**© EnclaveOS All rights reserved**\n\nEnclaveOS is an independent project and is not affiliated with or endorsed by PayPal, Samsung, or Patreon.\nAll trademarks, service marks, and logos used on this site are the property of their respective owners:\n\n**PayPal** is a trademark of PayPal, Inc.\n\n**Samsung** is a trademark of Samsung Electronics Co., Ltd.\n\n**Patreon** is a trademark of Patreon, Inc.\n\nWebsite developed by **@GTVR** and designed by **flareneo**.\nPowered by \\*\\*Netlify\n\n",
+    "copyrightText": "**© EnclaveOS All rights reserved**\n\nEnclaveOS is an independent project and is not affiliated with or endorsed by PayPal, Samsung, or Patreon.\nAll trademarks, service marks, and logos used on this site are the property of their respective owners:\n\n**PayPal** is a trademark of PayPal, Inc.\n\n**Samsung** is a trademark of Samsung Electronics Co., Ltd.\n\n**Patreon** is a trademark of Patreon, Inc.\n\nWebsite developed by **@GTVR** and designed by **flareneo**.\nPowered by **Netlify**\n\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "primaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Information",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Who Are We?",
+                "altText": "",
+                "url": "/AboutUs",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Terms And Conditions",
+                "altText": "",
+                "url": "/TOS",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    },
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "More",
+        "links": [
+            {
+                "type": "Link",
+                "label": "UX Development Application",
+                "altText": "",
+                "url": "/UXDevApp",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "FAQ",
+                "altText": "",
+                "url": "/FAQ",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
