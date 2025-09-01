@@ -39,7 +39,7 @@ sections:
           width: full
         - type: TextFormControl
           name: device-model
-          label: Name
+          label: Model
           hideLabel: true
           placeholder: Your Device Model
           isRequired: true
