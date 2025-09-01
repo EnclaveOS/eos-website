@@ -39,7 +39,7 @@
             {
                 "type": "Link",
                 "label": "About EnclaveUX",
-                "altText": "Buy now",
+                "altText": "What Is EnclaveUX",
                 "url": "/AboutEnclaveUX",
                 "showIcon": false,
                 "icon": "shoppingBag",
