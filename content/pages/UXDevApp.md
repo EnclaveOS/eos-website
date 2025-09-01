@@ -31,6 +31,13 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
+          name: birthday
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: TextFormControl
           name: device-brand
           label: Brand
           hideLabel: true
@@ -49,13 +56,6 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
-        - type: TextFormControl
-          name: birthday
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
           width: full
       submitButton:
         type: SubmitButtonFormControl
