@@ -19,12 +19,6 @@ sections:
       Development Application](/UXDevApp) to help us expand support for more
       devices.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
