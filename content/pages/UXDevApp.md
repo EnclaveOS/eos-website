@@ -8,11 +8,10 @@ sections:
       text: Add Official Support
       color: text-dark
     subtitle: On Your Device
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At EnclaveOS, we are committed to ensuring that your device can receive
+      official support. To achieve this, we have developed the UX Development
+      Application specifically for this purpose.
     actions: []
     media:
       type: FormBlock
