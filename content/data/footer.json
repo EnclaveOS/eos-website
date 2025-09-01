@@ -27,17 +27,6 @@
             },
             {
                 "type": "Link",
-                "label": "What Is EnclaveOS",
-                "altText": "",
-                "url": "/AboutEnclaveOS",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "What Is EnclaveUX",
                 "altText": "",
                 "url": "/AboutEnclaveUX",
