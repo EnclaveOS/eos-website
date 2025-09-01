@@ -55,7 +55,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: 'Optional Message For Us (eg. Tips, Information, More Help, Etc)'
           width: full
         - type: CheckboxFormControl
           name: Confirm
