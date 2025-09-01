@@ -30,7 +30,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: About Us
       color: text-dark
     colors: bg-light-fg-dark
     styles:
