@@ -41,7 +41,7 @@ sections:
           name: device-model
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your Device Model
           isRequired: true
           width: full
         - type: TextareaFormControl
