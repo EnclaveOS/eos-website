@@ -15,7 +15,7 @@ sections:
       photography extends to crafting unique wallpapers, enhancing the overall
       beauty and appeal of our work. However, expanding support for more devices
       remains challenging due to limited equipment. You can assist us by
-      [donating](/Donate), or alternatively, by applying through the [UX
+      [donating](/donate), or alternatively, by applying through the [UX
       Development Application](/UXDevApp) to help us expand support for more
       devices.
     actions: []
