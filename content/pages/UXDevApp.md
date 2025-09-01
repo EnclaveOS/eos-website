@@ -47,7 +47,7 @@ sections:
         type: SubmitButtonFormControl
         label: Submit
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: secondary
       elementId: contact-form
       styles:
