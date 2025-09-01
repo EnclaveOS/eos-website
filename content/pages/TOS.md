@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Terms And Conditions
         tagline: Feature 1
-        subtitle: 'Last Updated: '
+        subtitle: 'Last Updated: 1/9/2025'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
