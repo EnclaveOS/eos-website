@@ -27,17 +27,6 @@
             },
             {
                 "type": "Link",
-                "label": "What Is EnclaveUX",
-                "altText": "",
-                "url": "/AboutEnclaveUX",
-                "showIcon": false,
-                "icon": "shoppingBag",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Terms And Conditions",
                 "altText": "",
                 "url": "/TOS",
