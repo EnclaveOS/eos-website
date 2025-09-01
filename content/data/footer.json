@@ -12,7 +12,7 @@
     "type": "Footer",
     "primaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "Company",
+        "title": "Information",
         "links": [
             {
                 "type": "Link",
