@@ -34,7 +34,7 @@ sections:
           name: device-brand
           label: Brand
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your Device Brand
           isRequired: true
           width: full
         - type: TextareaFormControl
