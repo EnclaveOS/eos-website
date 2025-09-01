@@ -63,13 +63,6 @@ sections:
           label: I have read and accept the Terms Of Service.
           isRequired: true
           width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: send
-        iconPosition: right
-        style: secondary
-        showIcon: true
       elementId: contact-form
       styles:
         self:
