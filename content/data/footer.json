@@ -35,6 +35,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Buy now",
+                "altText": "Buy now",
+                "url": "/AboutEnclaveUX",
+                "showIcon": true,
+                "icon": "shoppingBag",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ]
     }
