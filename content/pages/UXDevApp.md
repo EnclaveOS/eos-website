@@ -60,7 +60,7 @@ sections:
           isRequired: false
         - type: CheckboxFormControl
           name: Confirm
-          label: I have read and accept the legal terms.
+          label: I have read and accept the Terms Of Service.
           isRequired: true
           width: full
       submitButton:
