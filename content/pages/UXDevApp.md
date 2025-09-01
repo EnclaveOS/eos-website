@@ -45,7 +45,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit Your UX Development Application
+        label: Submit
         icon: arrowRight
         iconPosition: right
         style: primary
