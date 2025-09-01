@@ -9,8 +9,15 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We are the Enclave Team, creators of EnclaveOS and EnclaveUX. As
+      developers and photographers, our mission is to design refined custom ROMs
+      featuring a visually stunning and smooth user interface. Our passion for
+      photography extends to crafting unique wallpapers, enhancing the overall
+      beauty and appeal of our work. However, expanding support for more devices
+      remains challenging due to limited equipment. You can assist us by
+      [donating](/Donate), or alternatively, by applying through the [UX
+      Development Application](/UXDevApp) to help us expand support for more
+      devices.
     actions:
       - type: Button
         label: Get started
