@@ -34,7 +34,7 @@ sections:
           name: birthday
           label: Birthday
           hideLabel: true
-          placeholder: Your name
+          placeholder: 'Your Birthday: mm/dd/yyyy'
           isRequired: true
           width: full
         - type: TextFormControl
