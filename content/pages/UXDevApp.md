@@ -32,7 +32,7 @@ sections:
           width: full
         - type: TextFormControl
           name: birthday
-          label: Name
+          label: Birthday
           hideLabel: true
           placeholder: Your name
           isRequired: true
