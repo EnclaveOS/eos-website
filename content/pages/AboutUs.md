@@ -18,14 +18,7 @@ sections:
       [donating](/Donate), or alternatively, by applying through the [UX
       Development Application](/UXDevApp) to help us expand support for more
       devices.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Dope design preview
