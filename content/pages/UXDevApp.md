@@ -49,6 +49,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        showIcon: true
       elementId: contact-form
       styles:
         self:
