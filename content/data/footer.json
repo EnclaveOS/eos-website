@@ -52,7 +52,7 @@
                 "label": "Terms Of Service",
                 "altText": "",
                 "url": "/TOS",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
