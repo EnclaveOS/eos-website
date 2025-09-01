@@ -81,7 +81,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
     badge:
       type: Badge
       label: Make Your UX Possible
