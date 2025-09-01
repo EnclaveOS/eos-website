@@ -16,7 +16,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Who Are We?",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
