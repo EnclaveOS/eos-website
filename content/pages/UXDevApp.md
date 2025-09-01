@@ -32,7 +32,7 @@ sections:
           width: full
         - type: TextFormControl
           name: device-brand
-          label: Name
+          label: Brand
           hideLabel: true
           placeholder: Your name
           isRequired: true
