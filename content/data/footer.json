@@ -41,7 +41,7 @@
                 "label": "Buy now",
                 "altText": "Buy now",
                 "url": "/AboutEnclaveUX",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "shoppingBag",
                 "iconPosition": "left",
                 "style": "secondary",
