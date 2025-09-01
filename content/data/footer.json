@@ -68,7 +68,7 @@
                 "type": "Link",
                 "label": "FAQ",
                 "altText": "",
-                "url": "/pricing",
+                "url": "/FAQ",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
