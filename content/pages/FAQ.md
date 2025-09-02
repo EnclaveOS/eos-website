@@ -73,6 +73,42 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
+        title: Why Is The Custom ROM Not Flashing
+        subtitle: They Are Not Flashable ZIPs-
+        text: >+
+          Please read this carefully before reporting a bug or issue. Our custom
+          ROMs are not flashable ZIP files but rather zipped TWRP backup
+          folders. Kindly understand this distinction. Below are the
+          instructions for flashing our custom ROM:
+
+
+          1.  Extract the ZIP file on your computer or device.
+
+
+          2.  Inside, you will find a folder structured for TWRP. Move this
+          folder to the following location on your device: TWRP > BACKUPS >
+          \[Your Device ID].
+
+
+          3.  After placing the backup, boot into TWRP Recovery, navigate to the
+          Restore option, and select the backup you just added.
+
+
+          4.  Proceed with the restore process, and everything should work as
+          intended.
+
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: More Questions And Answers Coming Soon
         tagline: ''
         subtitle: ''
