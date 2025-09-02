@@ -73,6 +73,25 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
+        title: Why Is The Custom ROM Not Flashing
+        subtitle: With The UX Development Application
+        text: >
+          You can support your device officially, but always make sure to listen
+          carefully to the person. Once it's ready, we will add it to our list,
+          release it on XDA, and credit you in the [credits](/cred) tab
+          (Developers).
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: More Questions And Answers Coming Soon
         tagline: ''
         subtitle: ''
