@@ -74,7 +74,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Why Is The Custom ROM Not Flashing
-        subtitle: With The UX Development Application
+        subtitle: I Dont Knw
         text: >
           You can support your device officially, but always make sure to listen
           carefully to the person. Once it's ready, we will add it to our list,
