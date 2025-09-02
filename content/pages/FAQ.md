@@ -74,7 +74,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Why Is The Custom ROM Not Flashing
-        subtitle: 'I Dont Know, MAYBE BECAUSE ITS NOT A FLASHABLE ZIP!'
+        subtitle: They Are Not Flashable ZIPs-
         text: >+
           Please read this carefully before reporting a bug or issue. Our custom
           ROMs are not flashable ZIP files but rather zipped TWRP backup
