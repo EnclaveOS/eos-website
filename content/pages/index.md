@@ -143,7 +143,7 @@ sections:
           identified and reported scams, fraud, and other threats.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: '/images/InShot_20250904_181308523[1].jpg'
           altText: Background alt text
           styles:
             self:
