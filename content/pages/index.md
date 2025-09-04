@@ -95,7 +95,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Whats Included With EnclaveUX?
+      text: What’s included with EnclaveUX?
       color: text-primary
       styles:
         self:
