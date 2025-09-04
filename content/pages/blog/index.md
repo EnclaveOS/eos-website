@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: You May Find EnclaveOS Recent Or Archived Posts Here!
     posts:
-      - content/pages/blog/enclaveos-website-is-almost-done.md
+      - content/pages/blog/direct090425.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
