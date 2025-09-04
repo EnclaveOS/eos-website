@@ -103,7 +103,7 @@ sections:
     subtitle: 'When Getting EnclaveOS, Here Are The Top 4 Features You Would Get'
     items:
       - type: FeaturedItem
-        title: ''
+        title: Clock Customization
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
