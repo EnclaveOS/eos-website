@@ -162,7 +162,7 @@ sections:
       - type: FeaturedItem
         title: Rounded UI
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'B E A U T I F U L '
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
