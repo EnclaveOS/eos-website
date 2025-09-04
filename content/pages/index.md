@@ -169,7 +169,7 @@ sections:
           rounded design.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: '/images/InShot_20250904_175901682[1].jpg'
           altText: Background alt text
           styles:
             self:
