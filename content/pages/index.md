@@ -117,7 +117,7 @@ sections:
           to add your own custom font for a truly unique touch.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: '/images/InShot_20250904_180751196[1].jpg'
           altText: Background alt text
           styles:
             self:
@@ -143,7 +143,7 @@ sections:
           identified and reported scams, fraud, and other threats.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: '/images/InShot_20250904_181308523[1].jpg'
           altText: Background alt text
           styles:
             self:
@@ -169,7 +169,7 @@ sections:
           rounded design.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: '/images/InShot_20250904_175901682[1].jpg'
           altText: Background alt text
           styles:
             self:
@@ -194,7 +194,7 @@ sections:
           charging, low battery, NFC, wireless charging, and so much more.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: '/images/InShot_20250904_182107251[1].jpg'
           altText: Placeholder text
           styles:
             self:
@@ -226,7 +226,7 @@ sections:
 seo:
   metaTitle: Home
   metaDescription: EnclaveOS Official Home Screen - UXIfy Your Phone!
-  socialImage: '/images/Untitled12_20250826110908[1].png'
+  socialImage: '/images/InShot_20250904_184622305[1].png'
   type: Seo
 type: PageLayout
 ---
