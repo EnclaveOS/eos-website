@@ -73,7 +73,7 @@ sections:
           borderRadius: none
 seo:
   metaTitle: Home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: EnclaveOS Official Home Screen - UXIfy Your Phone!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
