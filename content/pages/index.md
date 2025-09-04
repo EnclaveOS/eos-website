@@ -110,7 +110,7 @@ sections:
       - type: FeaturedItem
         title: Clock Customization
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Perfect For Personal Use!
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
