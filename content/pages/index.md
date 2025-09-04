@@ -194,7 +194,7 @@ sections:
           charging, low battery, NFC, wireless charging, and so much more.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: '/images/InShot_20250904_182107251[1].jpg'
           altText: Placeholder text
           styles:
             self:
