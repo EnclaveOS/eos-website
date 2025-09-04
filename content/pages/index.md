@@ -96,7 +96,7 @@ sections:
     title:
       type: TitleBlock
       text: What’s included with EnclaveUX?
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
