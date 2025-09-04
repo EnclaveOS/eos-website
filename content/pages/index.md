@@ -75,6 +75,7 @@ sections:
             - mt-1
             - mb-1
             - mr-1
+            - ml-1
   - type: RecentPostsSection
     title:
       type: TitleBlock
