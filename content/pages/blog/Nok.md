@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'EnclaveDirect '
+title: EnclaveDirect | 09.04.25
 date: '2025-09-04'
 author: content/data/person1.json
 excerpt: 'Please Wait Until We Finish Up, Thank You'
