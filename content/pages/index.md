@@ -136,7 +136,7 @@ sections:
       - type: FeaturedItem
         title: Included Protection On Your Device
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Powered By Nok 1
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
