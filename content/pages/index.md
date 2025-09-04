@@ -71,6 +71,8 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: none
+          margin:
+            - mt-1
   - type: RecentPostsSection
     title:
       type: TitleBlock
