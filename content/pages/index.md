@@ -64,7 +64,7 @@ sections:
         self:
           padding:
             - pt-0
-            - pb-1
+            - pb-0
             - pl-0
             - pr-0
           borderColor: border-light
