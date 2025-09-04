@@ -137,8 +137,10 @@ sections:
         title: Included Protection On Your Device
         tagline: ''
         subtitle: Powered By Nok 1
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          In addition to OTA updates, Nok, your new phone defender, safeguards
+          your device against viruses and utilizes Smart Calling to block
+          identified and reported scams, fraud, and other threats.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
