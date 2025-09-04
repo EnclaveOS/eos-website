@@ -71,52 +71,6 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: none
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: With Just 3 Steps You Are Ready
-      color: text-dark
-    subtitle: ''
-    text: >
-      We provide detailed instructions for flashing TWRP and EnclaveOS, so you
-      can fully enjoy that amazing user experience! Plus, if you change your
-      mind, we offer free assistance to restore your phone at no cost.
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://qu.ax/BTrxQ.mp4'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '4:3'
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pb-0
-            - pl-0
-            - pr-0
-          borderColor: border-light
-          borderStyle: solid
-          borderWidth: 0
-          borderRadius: none
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
