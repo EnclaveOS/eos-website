@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Introducing Nok
-date: '0002-09-04'
+date: ''
 author: content/data/person1.json
 excerpt: 'Please Wait Until We Finish Up, Thank You'
 featuredImage:
