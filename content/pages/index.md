@@ -111,8 +111,10 @@ sections:
         title: Clock Customization
         tagline: ''
         subtitle: Perfect for personal use!
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          With support for up to 50 clock fonts, this feature offers excellent
+          opportunities for personalization. Additionally, you have the option
+          to add your own custom font for a truly unique touch.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
