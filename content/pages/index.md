@@ -54,7 +54,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://files.catbox.moe/li2lmv.mp4'
+      url: 'https://files.catbox.moe/pzipgc.mp4'
       autoplay: true
       loop: true
       muted: true
@@ -68,110 +68,165 @@ sections:
             - pl-0
             - pr-0
           borderColor: border-light
-          borderStyle: solid
+          borderStyle: none
           borderWidth: 0
           borderRadius: none
-  - type: GenericSection
+          margin:
+            - mt-2
+            - mb-2
+            - mr-2
+            - ml-2
+  - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Shipped With EnclaveUX 1.0
+      text: Recent posts
       color: text-dark
-    subtitle: ''
-    text: >+
-      EnclaveUX showcases the future of UI and customization, aiming to fully
-      replace other custom ROMs with EnclaveOS. With adequate support, it has
-      the potential to become even more refined and innovative. Now available on
-      upcoming devices and compatible models with UX 1.0.
-
-
-      *`Restrictions apply; devices must meet compatibility requirements.`*
-
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://qu.ax/VOlYB.mp4'
-      autoplay: true
-      loop: false
-      muted: true
-      controls: false
-      aspectRatio: '4:3'
       styles:
         self:
-          padding:
-            - pt-0
-            - pb-0
-            - pl-0
-            - pr-0
-          borderColor: border-light
-          borderStyle: solid
-          borderWidth: 0
-          borderRadius: none
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
     elementId: ''
+    variant: three-col-grid
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
+        justifyContent: center
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: With Just 3 Steps You Are Ready
+      text: What’s included with EnclaveUX?
       color: text-dark
-    subtitle: ''
-    text: >
-      We provide detailed instructions for flashing TWRP and EnclaveOS, so you
-      can fully enjoy that amazing user experience! Plus, if you change your
-      mind, we offer free assistance to restore your phone at no cost.
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://qu.ax/BTrxQ.mp4'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '4:3'
       styles:
         self:
-          padding:
-            - pt-0
-            - pb-0
-            - pl-0
-            - pr-0
-          borderColor: border-light
-          borderStyle: solid
-          borderWidth: 0
-          borderRadius: none
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
+          textAlign: center
+    subtitle: 'When Getting EnclaveOS, Here Are The Top 4 Features You Would Get'
+    items:
+      - type: FeaturedItem
+        title: Clock Customization
+        tagline: ''
+        subtitle: Perfect for personal use!
+        text: >
+          With support for up to 50 clock fonts, this feature offers excellent
+          opportunities for personalization. Additionally, you have the option
+          to add your own custom font for a truly unique touch.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Included Protection On Your Device
+        tagline: ''
+        subtitle: Powered By Nok 1
+        text: >
+          In addition to OTA updates, Nok, your new phone defender, safeguards
+          your device against viruses and utilizes Smart Calling to block
+          identified and reported scams, fraud, and other threats.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Rounded UI
+        tagline: ''
+        subtitle: B E A U T I F U L !!!
+        text: >
+          With our enhanced user interface, your phone will feel more intuitive
+          and comfortable, offering a satisfying experience with its sleek and
+          rounded design.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Smooth Animations
+        tagline: ''
+        subtitle: The Better It Gets!
+        text: >
+          We deliver the smoothest animations for your phone, including
+          charging, low battery, NFC, wireless charging, and so much more.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: center
-        flexDirection: row
         padding:
           - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home
+  metaDescription: EnclaveOS Official Home Screen - UXIfy Your Phone!
+  socialImage: '/images/Untitled12_20250826110908[1].png'
   type: Seo
 type: PageLayout
 ---
