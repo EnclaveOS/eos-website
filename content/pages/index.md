@@ -70,7 +70,7 @@ sections:
           borderColor: border-light
           borderStyle: solid
           borderWidth: 0
-          borderRadius: xx-small
+          borderRadius: none
           margin:
             - mt-2
             - mb-2
