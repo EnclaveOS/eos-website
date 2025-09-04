@@ -25,4 +25,34 @@ styles:
   self:
     flexDirection: row
 ---
-Please Wait Until We Finish Up, Thank You
+Welcome to an exclusive sneak peek at the upcoming EnclaveUX! We are thrilled to share a preview of the exciting new features coming your way. While we regret to inform you about a delay, as previously announced on Telegram, the release has been postponed to December 13, 2025. However, we don’t want to leave you waiting without something to look forward to. So, here is a glimpse of what’s in store for you!
+
+
+
+Addressing your safety concerns, we are proud to introduce Nok, your new phone defender.
+
+Scams, viruses, and fraud have become increasingly common, affecting you and 3.8 million others across the U.S. To combat this, we created Nok, equipped with smart calling features and robust antivirus protection. Available soon on EnclaveUX.
+
+
+
+Additionally, we are adding support for TV and PC, and each device will have five boot themes for fun!
+
+Currently, we have created four boot themes for mobile, which we named:
+
+*   Original
+
+*   Retro
+
+*   Futuristic
+
+*   HDR (available for selected devices only)
+
+If HDR is unavailable for your device, we will provide a replacement boot theme:
+
+*   Colors
+
+
+
+That's all for today. Have a nice day!
+
+(Oh, and we've got a new logo and banner since we accidentally copied Evolution X without realizing it.)
