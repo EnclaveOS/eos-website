@@ -72,10 +72,10 @@ sections:
           borderWidth: 0
           borderRadius: none
           margin:
-            - mt-1
-            - mb-1
-            - mr-1
-            - ml-1
+            - mt-2
+            - mb-2
+            - mr-2
+            - ml-2
   - type: RecentPostsSection
     title:
       type: TitleBlock
