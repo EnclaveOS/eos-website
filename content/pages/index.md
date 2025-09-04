@@ -100,7 +100,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: 'When Getting EnclaveOS, Here Are The Top 4 Features You Would Get'
     items:
       - type: FeaturedItem
         title: Feature Item One
