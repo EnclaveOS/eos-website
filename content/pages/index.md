@@ -68,7 +68,7 @@ sections:
             - pl-0
             - pr-0
           borderColor: border-light
-          borderStyle: solid
+          borderStyle: none
           borderWidth: 0
           borderRadius: none
           margin:
