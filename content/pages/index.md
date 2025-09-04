@@ -226,7 +226,7 @@ sections:
 seo:
   metaTitle: Home
   metaDescription: EnclaveOS Official Home Screen - UXIfy Your Phone!
-  socialImage: '/images/Untitled12_20250826110908[1].png'
+  socialImage: /images/icon_1757021391.ico
   type: Seo
 type: PageLayout
 ---
