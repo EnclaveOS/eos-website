@@ -189,8 +189,9 @@ sections:
         title: Smooth Animations
         tagline: ''
         subtitle: The Better It Gets!
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We deliver the smoothest animations for your phone, including
+          charging, low battery, NFC, wireless charging, and so much more.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
