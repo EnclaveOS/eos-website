@@ -9,8 +9,7 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: You May Find EnclaveOS Recent Or Archived Posts Here!
-    posts:
-      - content/pages/blog/enclaveos-website-is-almost-done.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
