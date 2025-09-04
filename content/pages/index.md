@@ -134,7 +134,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Included Protection On Your Device
         tagline: ''
         subtitle: This is the item subtitle
         text: |
