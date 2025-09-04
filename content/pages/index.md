@@ -188,7 +188,7 @@ sections:
       - type: FeaturedItem
         title: Smooth Animations
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: The Better It Gets!
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
