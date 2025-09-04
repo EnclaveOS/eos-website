@@ -163,8 +163,10 @@ sections:
         title: Rounded UI
         tagline: ''
         subtitle: B E A U T I F U L !!!
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          With our enhanced user interface, your phone will feel more intuitive
+          and comfortable, offering a satisfying experience with its sleek and
+          rounded design.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
