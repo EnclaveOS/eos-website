@@ -74,6 +74,7 @@ sections:
           margin:
             - mt-1
             - mb-1
+            - mr-1
   - type: RecentPostsSection
     title:
       type: TitleBlock
