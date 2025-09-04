@@ -117,7 +117,7 @@ sections:
           to add your own custom font for a truly unique touch.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: '/images/InShot_20250904_180751196[1].jpg'
           altText: Background alt text
           styles:
             self:
