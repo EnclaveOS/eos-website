@@ -55,7 +55,7 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "label": "Join Telegram Channel",
+            "label": "Join the Telegram channel",
             "altText": "",
             "url": "t.me/EnclaveOS",
             "showIcon": false,
